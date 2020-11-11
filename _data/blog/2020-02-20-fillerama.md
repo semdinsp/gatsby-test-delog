@@ -1,50 +1,36 @@
 ---
 template: BlogPost
-path: /fillerama
+path: /timor-leste
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
+title: Developing Business in Timor Leste
 thumbnail: /assets/image-5.jpg
 ---
-# No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
+## Where is Timor Leste
 
-I am the Doctor, and you are the Daleks! You hit me with a cricket bat. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hit me with a cricket bat.
+Timor is a small island at the southern end of Maritime Southeast Asia and in the north of the Timor Sea. The island is divided between the sovereign states of East Timor on the eastern part and Indonesia on the western part. Leste is a Portuguese name for the word of the east in English.
 
-You've swallowed a planet! No… It's a thing; it's like a plan, but with more greatness. You hate me; you want to kill me! Well, go on! **Kill me!** *KILL ME!* Sorry, checking all the water in this area; there's an escaped fish.
+## Timor Leste  Overview
 
-## Did I mention we have comfy chairs?
+Emerging from decades of conflict, Timor-Leste became the first new sovereign state of the 21st century in May 2002.
 
-No… It's a thing; it's like a plan, but with more greatness. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+Faced with the task of rebuilding public infrastructure – including roads, ports and airports, water and sanitation systems, and government facilities – and institutional frameworks, Timor-Leste has made significant progress in key areas since independence. Meanwhile, fragility remains a challenge as the country contends with legacies of past conflict.
 
-1. \*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do!
-2. Sorry, checking all the water in this area; there's an escaped fish.
-3. Father Christmas. Santa Claus. Or as I've always known him: Jeff.
+Today, with a population of 1.3 million people, Timor-Leste is a peaceful, democratic nation. While poverty levels remain high, progress has been made in improving living standards. The proportion of Timorese living in poverty declined from 50% in 2007 to an estimated 42% in 2014.
 
-### I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+Investments in human capital are directly linked to Timor-Leste’s future growth, productivity, and competitiveness. In 2017, the Human Capital Index for Timor-Leste stood at 0.43, as compared to the East Asia and the Pacific’s regional average of 0.61. A healthier and more skilled workforce is necessary to better meet the future labor demands across the economy.
 
-It's a fez. I wear a fez now. Fezes are cool. You know how I sometimes have really brilliant ideas? You know how I sometimes have really brilliant ideas? Sorry, checking all the water in this area; there's an escaped fish.
+## **Industrial Opportunities in Timor Leste**
 
-* I am the last of my species, and I know how that weighs on the heart so don't lie to me!
-* You hit me with a cricket bat.
-* You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+The opportunities are obvious that the infrastructure of East Timor is pending improvement. What’s more, the Timorese government is planning to spend more on infrastructure in a few years to come.
 
-I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+Agriculture is also a promising industry if you plan to invest in Timor Leste. the most promising produces should be coffee, coconuts, beans, corn, sweet potatoes, peanuts, etc.
 
-It's a fez. I wear a fez now. Fezes are cool. The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant.
+The fishing industry is also undeveloped, despite that it has plenty of marine resources. Thus, the processing of marine produces has huge market potential.
 
-You know how I sometimes have really brilliant ideas? Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+At last, let’s take a look at its tourism. Tourism is based on the development of the primary industry and secondary industry. But nowadays, the said two still have a long way to go. But, we have to admit that Timor Leste has huge natural resources in terms of tourism. Green mountains, nice beaches, blue sky, fantastic diving position, and natural animals are laying the foundation of developing tourism in Timor Leste.
 
-You've swallowed a planet! They're not aliens, they're Earth…liens! You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+Compared with the booming e-commerce in countries surrounding, the same industry in Timor Leste is already lagging. There’re already [Shopee](https://www.shopee.com/), [Lazada](http://www.lazada.com/) and other e-commerce platforms in Indonesia, Thailand, Singapore. But right now, the websites and apps are still countable with only 2 hands. Moreover, the number of e-commerce apps is declining from 2013 to 2015. E-Commerce will be a promising industry in Timor Leste, but with few years to foster.
 
-Father Christmas. Santa Claus. Or as I've always known him: Jeff. \*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! No… It's a thing; it's like a plan, but with more greatness.
+## **Conclusion**
 
-\*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! You've swallowed a planet! I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
-
-It's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? Saving the world with meals on wheels.
-
-You've swallowed a planet! Heh-haa! Super squeaky bum time! All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
-
-No… It's a thing; it's like a plan, but with more greatness. It's a fez. I wear a fez now. Fezes are cool. You hate me; you want to kill me! Well, go on! Kill me! KILL ME! Saving the world with meals on wheels.
-
-You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? Sorry, checking all the water in this area; there's an escaped fish. You hit me with a cricket bat.
-
-Did I mention we have comfy chairs? Stop talking, brain thinking. Hush. No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister. You know how I sometimes have really brilliant ideas?
+Doing business in Timor Leste is challenging but profitable. There are so many business opportunity and less competitive market as one of the youngest country in the world (independence since 2002). But with proper ways and right business partners, you can gain experiences and expand your business successfully. This is where we can come to help you as you right partner and ensure a proper due diligent for Timor’s market.
