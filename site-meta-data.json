@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Marketing",
+  "siteUrl": "https://marketing2.verde-tl.com/",
+  "description": "Marketing and business consultinng in Timor Leste",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Marketing Management/Business Consulting",
+    "description": "Verdeka has helped some international investors to set up business in Timor Leste/East Timor since 2014 from various industries from duty free retails, gaming, recycling, construction, and throughout fishery industries. Over the years, we have built great relationships with Timorese government sectors, local organization, private sectors to support us setting up your business in Timor Leste."
   }
 }
