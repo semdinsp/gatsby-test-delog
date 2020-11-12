@@ -7,10 +7,7 @@ thumbnail: /assets/image-6.jpg
 ---
 Our keys skills include:
 
+* Capability to assist in all aspects of business startup from licenses to incorporation
 * Build operate transfer (BOT) project and license acquisition
-
-  Timor Leste has significant oil reserves from which profits are being invested to improve infrastructure on a country wide basis. Next year investment will be in excess of 2B USD
-
-  Proven expertise in launching new businesses in Timor Leste
-
-  Capability to assist in all aspects of business startup from licenses to incorporation
+* Timor Leste has significant oil reserves from which profits are being invested to improve infrastructure on a country wide basis. Next year investment will be in excess of 2B USD
+* Proven expertise in launching new businesses in Timor Leste
