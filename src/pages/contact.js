@@ -20,7 +20,7 @@ const ContactPage = ({
           <p>Let our team help you kick start your next project in Timor Leste &rarr;</p>
     <p>Timor Leste contact: Eka Mardiarti Singapore contact: Scott Sproule</p>
     <p>Timor Address:  Timor Plaza, CDB 2, 2 Andar, Aldela 20 de Setembro, Bebonuk Dom Aleixo, Dili, Timor Leste </p>
-    <p>Singapoer Address:  07-07 Trivex, 8 Burn Road, Singapore, 369977 </p>
+    <p>Singapore Address:  07-07 Trivex, 8 Burn Road, Singapore, 369977 </p>
     
         </div>
         <div>
