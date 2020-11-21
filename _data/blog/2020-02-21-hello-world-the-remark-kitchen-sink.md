@@ -3,7 +3,7 @@ template: BlogPost
 path: /key-skills
 date: 2020-02-21T12:12:25.364Z
 title: Our key skillsets
-thumbnail: /assets/image-6.jpg
+thumbnail: /assets/skillssets.png
 ---
 Our keys skills include:
 
