@@ -7,8 +7,16 @@ metaDescription: 'project list, licenses, projects, duty free, lottery, regulate
 ---
 Our projects include the following:
 
+## Duty Free License and Build Out
 
+#### Project Summary
 
-Duty Free
+Starting from 1 Duty Free Shop at the Batugade  border then another 2 shops including Duty Free Shop in International Dili Airport. The overall project has been running for 5 years. It was a start up business but generated 1.2 million USD revenue in the second year. The project created employment for  up to 60 local employees  using less than 4 expats to help manage the growth.
 
-Lottery
+## Lottery License
+
+coming soon
+
+## Fishing License
+
+coming soon
