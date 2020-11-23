@@ -16,6 +16,14 @@ Starting from 1 Duty Free Shop at the Batugade  border then another 2 shops incl
 
 Please see our [summary presentation](https://drive.google.com/file/d/1aAtC0nC3gPhmmVJ41qomv3bVg77Sf8gL/view?usp=sharing).
 
+## Recycle Project
+
+#### Project Summary
+
+We are working to build a recycle business including plastic collection and production.  We are partnering with local partners to address all the issues in the business and hope to build a sustainable plastic recycle business in Timor.
+
+![]()
+
 ## Lottery License
 
 coming soon
