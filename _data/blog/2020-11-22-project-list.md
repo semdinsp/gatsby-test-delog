@@ -14,7 +14,7 @@ Our projects include the following:
 
 Starting from 1 Duty Free Shop at the Batugade  border then another 2 shops including Duty Free Shop in International Dili Airport. The overall project has been running for 5 years. It was a start up business but generated 1.2 million USD revenue in the second year. The project created employment for  up to 60 local employees  using less than 4 expats to help manage the growth.
 
-Please see our [summary presentation](https://drive.google.com/file/d/1aAtC0nC3gPhmmVJ41qomv3bVg77Sf8gL/view?usp=sharing).
+Please see our [summary presentation](https://drive.google.com/file/d/1aAtC0nC3gPhmmVJ41qomv3bVg77Sf8gL/view?usp=sharing) and [marketing collateral](https://drive.google.com/file/d/1G0N7BxSdSMmPEY85zkzPf1fF5OW87yfa/view?usp=sharing)
 
 ## Recycle Project
 
