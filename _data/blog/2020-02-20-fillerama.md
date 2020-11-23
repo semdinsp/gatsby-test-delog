@@ -31,13 +31,14 @@ At last, let’s take a look at its tourism. Tourism is based on the development
 
 Compared with the booming e-commerce in countries surrounding, the same industry in Timor Leste is already lagging. There’re already [Shopee](https://www.shopee.com/), [Lazada](http://www.lazada.com/) and other e-commerce platforms in Indonesia, Thailand, Singapore. But right now, the websites and apps are still countable with only 2 hands. Moreover, the number of e-commerce apps is declining from 2013 to 2015. E-Commerce will be a promising industry in Timor Leste, but with few years to foster.
 
-Trade Invest Documentation
+## Trade Invest Documentation
 
-We work with Trade Invest to get tax incetives fro new businesses.
+We work with Trade Invest to get tax incentives for new businesses.  Tax incentives and government support can last up to five years or longer.
 
-\[Tax] See their document on [taxation in Timor Leste](https://drive.google.com/file/d/19OgdJzo6WJHXRw40FyE6kNyVIYIyR3oC/view?usp=sharing)
-
-\[Tax] See their document on [taxation in Timor Leste](https://drive.google.com/file/d/19OgdJzo6WJHXRw40FyE6kNyVIYIyR3oC/view?usp=sharing)
+* \[Corporate Tax] See their document on [taxation in Timor Leste](https://drive.google.com/file/d/19OgdJzo6WJHXRw40FyE6kNyVIYIyR3oC/view?usp=sharing)
+* \[Labor] See their document on [](https://drive.google.com/file/d/19OgdJzo6WJHXRw40FyE6kNyVIYIyR3oC/view?usp=sharing)[labour relations](https://drive.google.com/file/d/1BNAKu5-NVndX4-xAfmJWQ0zEL1GsY_oh/view?usp=sharing)
+* \[Start] See their document on [starting a business in Timor Leste](https://drive.google.com/file/d/1Zf6OkRbz9YM10-5f_bZJhKkIIe-I-qdc/view?usp=sharing)
+* \[Incentives] See their document on [investment incentives in Timor Leste](https://drive.google.com/file/d/1NcEC2N6lEOOXfgzhJaO_4JVkvOcBiZuG/view?usp=sharing)
 
 ## **Conclusion**
 
