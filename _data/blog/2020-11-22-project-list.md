@@ -22,7 +22,7 @@ Please see our [summary presentation](https://drive.google.com/file/d/1aAtC0nC3g
 
 We are working to build a recycle business including plastic collection and production.  We are partnering with local partners to address all the issues in the business and hope to build a sustainable plastic recycle business in Timor.
 
-![](/assets/recycle.jpg)
+Please visit our [recycle website.](https://recycle.verde-tl.com)
 
 ## Lottery License
 
