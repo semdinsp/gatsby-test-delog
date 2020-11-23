@@ -31,6 +31,14 @@ At last, let’s take a look at its tourism. Tourism is based on the development
 
 Compared with the booming e-commerce in countries surrounding, the same industry in Timor Leste is already lagging. There’re already [Shopee](https://www.shopee.com/), [Lazada](http://www.lazada.com/) and other e-commerce platforms in Indonesia, Thailand, Singapore. But right now, the websites and apps are still countable with only 2 hands. Moreover, the number of e-commerce apps is declining from 2013 to 2015. E-Commerce will be a promising industry in Timor Leste, but with few years to foster.
 
+Trade Invest Documentation
+
+We work with Trade Invest to get tax incetives fro new businesses.
+
+\[Tax] See their document on [taxation in Timor Leste](https://drive.google.com/file/d/19OgdJzo6WJHXRw40FyE6kNyVIYIyR3oC/view?usp=sharing)
+
+\[Tax] See their document on [taxation in Timor Leste](https://drive.google.com/file/d/19OgdJzo6WJHXRw40FyE6kNyVIYIyR3oC/view?usp=sharing)
+
 ## **Conclusion**
 
 Doing business in Timor Leste is challenging but profitable. There are so many business opportunity and less competitive market as one of the youngest country in the world (independence since 2002). But with proper ways and right business partners, you can gain experiences and expand your business successfully. This is where we can come to help you as you right partner and ensure a proper due diligent for Timor’s market.
