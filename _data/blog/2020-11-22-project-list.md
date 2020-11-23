@@ -4,6 +4,7 @@ path: /projects
 date: 2020-11-22T12:30:54.338Z
 title: Project List
 metaDescription: 'project list, licenses, projects, duty free, lottery, regulated businesses'
+thumbnail: /assets/projects.jpg
 ---
 Our projects include the following:
 
